@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:/Program Files/Python312/python.exe",
+    "python.analysis.extraPaths": [
+      "C:/Program Files/Python312/Lib/site-packages"
+    ],
+    "python.linting.pylintArgs": [
+      "--init-hook",
+      "import sys; sys.path.append('C:/Program Files/Python312/Lib/site-packages')"
+    ]
+  }
+  
